@@ -13,7 +13,7 @@
 - Matplotlib 可视化
 - MySQL（可选，结果入库）
 
-## 如何运行
+## 如何运行 
 1. 安装依赖包：`pip install pandas matplotlib`
 2. 运行 `analysis.py` 执行数据分析
 # python-data-analysis
